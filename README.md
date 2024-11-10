@@ -11,6 +11,8 @@
 - [A First Look at Bluetooth® Channel Sounding](https://www.bluetooth.com/blog/a-first-look-at-bluetooth-channel-sounding/)
 - [Bluetooth Channel Sounding: How It Works and What It Means](https://www.bluetooth.com/blog/bluetooth-channel-sounding-how-it-works/)
 - [Learn About Bluetooth Bluetooth® Channel Sounding](https://www.bluetooth.com/learn-about-bluetooth/feature-enhancements/channel-sounding/)
+- [Channel Sounding: Technical Overview (Pt 1)](https://www.packetcraft.com/post/channel-sounding-technical-overview-pt-1)
+- [Channel Sounding: Technical Overview (Pt 2)](https://www.packetcraft.com/post/channel-sounding-technical-overview-pt-2)
 
 ### Youtube
 
