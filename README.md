@@ -1,5 +1,32 @@
 # Awesome Channel Sounding
 
+
+
+![Awesome](https://awesome.re/badge.svg) [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/mintisan/awesome-channel-sounding.svg?label=contributions)](https://github.com/mintisan/awesome-channel-sounding/pulls) [![Commits](https://img.shields.io/github/last-commit/awesome-channel-sounding.svg?label=last%20contribution)](https://github.com/gigwegbe/tinyml-papers-and-projects/commits/main) ![GitHub stars](https://img.shields.io/github/stars/awesome-channel-sounding.svg?style=social)
+
+
+
+A curated list of awesome libraries, projects, tutorials, and other resources related to Bluetooth® Channel Sounding. This repository aims to be a comprehensive and organized collection that will help developers in the world of Bluetooth® Channel Sounding!
+
+![Bluetooth-6 0-Channel-Sounding-supported-by-Nordic-Semiconductors-upcoming-nRF54-Series-SoCs](https://github.com/user-attachments/assets/a6d513cb-3d6a-4b00-8714-09e5e2f18a53)
+
+
+## Table of Contents
+
+- [Awesome Bluetooth® Channel Sounding](#Breadcrumbsawesome-channel-sounding)
+  - [Table of Contents](#table-of-contents)
+  - [News](#news)
+  - [Tutorial](#tutorial)
+    - [Youtube](#youtube)
+    - [Vendor](#vendor)
+  - [Chip or Board](#chip-or-board)
+    - [SiliconLabs](#siliconLabs)
+    - [Nordic](#nordic)
+    - [NXP](#nxp)
+  - [Contributing](#contributing)
+  - [License](#license)
+
+
 ## News
 
 - [Bluetooth 6.0 features accurate two-way ranging using Channel Sounding, latency reduction, improved scanning efficiency, and more](https://www.cnx-software.com/2024/09/04/bluetooth-6-0-features-accurate-two-way-ranging-using-channel-sounding-latency-reduction-improved-scanning-efficiency-and-more/)
@@ -45,3 +72,19 @@
 ### NXP
 
 - [MCX-W72X](https://www.nxp.com/products/processors-and-microcontrollers/arm-microcontrollers/general-purpose-mcus/mcx-arm-cortex-m/mcx-w-series-microcontrollers/mcx-w72x-secure-and-ultra-low-power-mcus-for-matter-thread-zigbee-and-bluetooth-le:MCX-W72X)
+
+
+## Contributing
+
+We welcome your contributions! Please follow these steps to contribute:
+
+1. Fork the repo.
+2. Create a new branch (e.g., `feature/new-awesome-channel-sounding-resource`).
+3. Commit your changes to the new branch.
+4. Create a Pull Request, and provide a brief description of the changes/additions.
+
+Please make sure that the resources you add are relevant to the field of Kolmogorov-Arnold Network. Before contributing, take a look at the existing resources to avoid duplicates.
+
+## License
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
