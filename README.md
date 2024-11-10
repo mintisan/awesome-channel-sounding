@@ -8,6 +8,7 @@
 
 - [Bluetooth® Core Specification Version 6.0 Feature Overview](https://www.bluetooth.com/core-specification-6-feature-overview/)
 - [Bluetooth® Channel Sounding Technical Overview](https://www.bluetooth.com/channel-sounding-tech-overview/)
+- [A First Look at Bluetooth® Channel Sounding](https://www.bluetooth.com/blog/a-first-look-at-bluetooth-channel-sounding/)
 - [Bluetooth Channel Sounding: How It Works and What It Means](https://www.bluetooth.com/blog/bluetooth-channel-sounding-how-it-works/)
 
 ### Vendor
