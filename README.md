@@ -10,6 +10,8 @@
 - [Bluetooth® Channel Sounding Technical Overview](https://www.bluetooth.com/channel-sounding-tech-overview/)
 - [A First Look at Bluetooth® Channel Sounding](https://www.bluetooth.com/blog/a-first-look-at-bluetooth-channel-sounding/)
 - [Bluetooth Channel Sounding: How It Works and What It Means](https://www.bluetooth.com/blog/bluetooth-channel-sounding-how-it-works/)
+- [Getting Started with Silicon Labs Bluetooth Channel Sounding by SiliconLabs](https://docs.silabs.com/rtl-lib/8.2.0/rtl-lib-channel-sounding-getting-started/)
+- [Bluetooth LE Channel Sounding Fundamentals by SiliconLabs](https://docs.silabs.com/rtl-lib/latest/rtl-lib-channel-sounding-fundamentals/)
 
 ### Youtube
 
