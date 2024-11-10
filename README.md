@@ -16,6 +16,7 @@
 
 - [Bluetooth® Channel Sounding Introduction](https://www.youtube.com/watch?v=iviXwFDsIqY&ab_channel=BluetoothSIG)
 - [Exploring Bluetooth® Channel Sounding](https://www.youtube.com/watch?v=U9GAK2AsJi0&ab_channel=BluetoothSIG)
+- [Bluetooth®️ Channel Sounding DemoFest](https://www.youtube.com/watch?v=8_WGSFrhRv8&list=PLW_2Bjh22ZRUDSVMV7zPSuSP9Edzqe1gK&ab_channel=BluetoothSIG)
 
 ### Vendor
 
