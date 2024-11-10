@@ -2,9 +2,7 @@
 
 
 
-![Awesome](https://awesome.re/badge.svg) [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/mintisan/awesome-channel-sounding.svg?label=contributions)](https://github.com/mintisan/awesome-channel-sounding/pulls) [![Commits](https://img.shields.io/github/last-commit/awesome-channel-sounding.svg?label=last%20contribution)](https://github.com/gigwegbe/tinyml-papers-and-projects/commits/main) ![GitHub stars](https://img.shields.io/github/stars/awesome-channel-sounding.svg?style=social)
-
-
+![Awesome](https://awesome.re/badge.svg) [![Contributions](https://img.shields.io/github/issues-pr-closed-raw/mintisan/awesome-channel-sounding.svg?label=contributions)](https://github.com/mintisan/awesome-channel-sounding/pulls)
 
 A curated list of awesome libraries, projects, tutorials, and other resources related to Bluetooth® Channel Sounding. This repository aims to be a comprehensive and organized collection that will help developers in the world of Bluetooth® Channel Sounding!
 
@@ -20,7 +18,7 @@ A curated list of awesome libraries, projects, tutorials, and other resources re
     - [Youtube](#youtube)
     - [Vendor](#vendor)
   - [Chip or Board](#chip-or-board)
-    - [SiliconLabs](#siliconLabs)
+    - [SiliconLabs](#siliconlabs)
     - [Nordic](#nordic)
     - [NXP](#nxp)
   - [Contributing](#contributing)
@@ -83,7 +81,7 @@ We welcome your contributions! Please follow these steps to contribute:
 3. Commit your changes to the new branch.
 4. Create a Pull Request, and provide a brief description of the changes/additions.
 
-Please make sure that the resources you add are relevant to the field of Kolmogorov-Arnold Network. Before contributing, take a look at the existing resources to avoid duplicates.
+Please make sure that the resources you add are relevant to the field of Bluetooth® Channel Sounding. Before contributing, take a look at the existing resources to avoid duplicates.
 
 ## License
 
