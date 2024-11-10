@@ -11,6 +11,10 @@
 - [A First Look at Bluetooth® Channel Sounding](https://www.bluetooth.com/blog/a-first-look-at-bluetooth-channel-sounding/)
 - [Bluetooth Channel Sounding: How It Works and What It Means](https://www.bluetooth.com/blog/bluetooth-channel-sounding-how-it-works/)
 
+### Youtube
+
+- [Bluetooth® Channel Sounding Introduction](https://www.youtube.com/watch?v=iviXwFDsIqY&ab_channel=BluetoothSIG)
+
 ### Vendor
 
 - [NXP-The Latest in Bluetooth – Channel Sounding](https://www.nxp.com/company/about-nxp/smarter-world-blog/BL-THE-LATEST-IN-BLUETOOTH-CHANNEL-SOUNDING)
