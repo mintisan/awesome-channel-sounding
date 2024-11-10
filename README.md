@@ -38,6 +38,7 @@ A curated list of awesome libraries, projects, tutorials, and other resources re
 - [Learn About Bluetooth Bluetooth® Channel Sounding](https://www.bluetooth.com/learn-about-bluetooth/feature-enhancements/channel-sounding/)
 - [Channel Sounding: Technical Overview (Pt 1)](https://www.packetcraft.com/post/channel-sounding-technical-overview-pt-1)
 - [Channel Sounding: Technical Overview (Pt 2)](https://www.packetcraft.com/post/channel-sounding-technical-overview-pt-2)
+- [Application Note - High Accuracy, Low Cost, Secure Ranging with Bluetooth Channel Sounding.pdf by TI](https://www.ti.com/lit/an/swra791/swra791.pdf?ts=1731143949292&ref_url=https%253A%252F%252Fwww.google.com%252F)
 
 ### Youtube
 
