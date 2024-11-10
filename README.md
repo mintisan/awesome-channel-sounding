@@ -10,8 +10,7 @@
 - [Bluetooth® Channel Sounding Technical Overview](https://www.bluetooth.com/channel-sounding-tech-overview/)
 - [A First Look at Bluetooth® Channel Sounding](https://www.bluetooth.com/blog/a-first-look-at-bluetooth-channel-sounding/)
 - [Bluetooth Channel Sounding: How It Works and What It Means](https://www.bluetooth.com/blog/bluetooth-channel-sounding-how-it-works/)
-- [Getting Started with Silicon Labs Bluetooth Channel Sounding by SiliconLabs](https://docs.silabs.com/rtl-lib/8.2.0/rtl-lib-channel-sounding-getting-started/)
-- [Bluetooth LE Channel Sounding Fundamentals by SiliconLabs](https://docs.silabs.com/rtl-lib/latest/rtl-lib-channel-sounding-fundamentals/)
+- [Learn About Bluetooth Bluetooth® Channel Sounding](https://www.bluetooth.com/learn-about-bluetooth/feature-enhancements/channel-sounding/)
 
 ### Youtube
 
@@ -27,16 +26,19 @@
 
 ## Chip or Board
 
-## SiliconLabs
+### SiliconLabs
 
 - [xG24-RB4198A EFR32xG24 Channel Sounding Radio Board](https://www.silabs.com/development-tools/wireless/xg24-rb4198a-efr32xg24-channel-sounding-radio-board?tab=overview)
 - [xG24-PK6036A EFR32xG24 Channel Sounding Pro Kit](https://www.silabs.com/development-tools/wireless/efr32xg24-channel-sounding-pro-kit?tab=overview)
+- [Getting Started with Silicon Labs Bluetooth Channel Sounding by SiliconLabs](https://docs.silabs.com/rtl-lib/8.2.0/rtl-lib-channel-sounding-getting-started/)
+- [Bluetooth LE Channel Sounding Fundamentals by SiliconLabs](https://docs.silabs.com/rtl-lib/latest/rtl-lib-channel-sounding-fundamentals/)
 
-## Nordic
+
+### Nordic
 
 - [nRF54H20](https://www.nordicsemi.com/Products/nRF54H20)
 - [nRF54L15](https://www.nordicsemi.com/Products/nRF54L15)
 
-## NXP
+### NXP
 
 - [MCX-W72X](https://www.nxp.com/products/processors-and-microcontrollers/arm-microcontrollers/general-purpose-mcus/mcx-arm-cortex-m/mcx-w-series-microcontrollers/mcx-w72x-secure-and-ultra-low-power-mcus-for-matter-thread-zigbee-and-bluetooth-le:MCX-W72X)
